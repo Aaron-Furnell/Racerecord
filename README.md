@@ -1,4 +1,4 @@
-This is a solution to the Pearson BTEC Level 3 Nationals Extended Diploma (Computing):
+This is a solution to the Pearson BTEC Level 3 Nationals Extended Diploma (Computing) that was done in College:
 
     You are asked to use your software design, development, testing and evaluation skills to produce a program that meets a client’s requirements.
     
